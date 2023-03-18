@@ -18,6 +18,6 @@ def encrypt(text,shift):
 
         encrypted_Text+=new_letter
     print(f"The encoded text is {encrypted_Text}")
-
+#Here we call our funtion
 encrypt(text,shift)
     
